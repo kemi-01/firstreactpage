@@ -1,6 +1,6 @@
 import React from 'react'
 
-const collection = () => {
+const Collection = () => {
   return (
 
       <div className='p-6 md:p-10'>
@@ -39,4 +39,4 @@ const collection = () => {
   )
 }
 
-export default collection
+export default Collection
